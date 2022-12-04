@@ -1,5 +1,5 @@
 #![feature(iter_array_chunks)]
-use std::collections::{HashMap, HashSet};
+use std::collections::{HashSet};
 use std::error::Error;
 use std::fs;
 
